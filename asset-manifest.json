@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dealership-Application-Portal/static/css/main.23f8abd2.css",
+    "main.js": "/Dealership-Application-Portal/static/js/main.27f0f484.js",
+    "index.html": "/Dealership-Application-Portal/index.html",
+    "main.23f8abd2.css.map": "/Dealership-Application-Portal/static/css/main.23f8abd2.css.map",
+    "main.27f0f484.js.map": "/Dealership-Application-Portal/static/js/main.27f0f484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23f8abd2.css",
+    "static/js/main.27f0f484.js"
+  ]
+}
